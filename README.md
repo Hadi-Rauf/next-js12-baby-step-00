@@ -1,0 +1,1 @@
+# next-js12-baby-step-00
